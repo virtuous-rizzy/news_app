@@ -1,0 +1,15 @@
+.dart_tool/
+.idea/
+build/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# API key & URL
+config/env.json
+config/env.prod.json
+proxy-gnews/.dev.vars
+proxy-gnews/node_modules/
+proxy-gnews/.wrangler/
+build/debug-info/
+apk_cek/
