@@ -154,22 +154,3 @@ strings apk_cek/lib/arm64-v8a/libapp.so | grep -i "gnews\|apikey"
 ```
  
 Pada Flutter Web, ganti `Access-Control-Allow-Origin: *` di `proxy-gnews/src/index.js` dengan domain webmu.
- 
-## 📸 Screenshot
- 
-<!-- Ganti dengan screenshot milikmu -->
-| Daftar berita | Detail | Error (API key salah) | Error (tanpa internet) |
-|---|---|---|---|
-| ![home](screenshots/home.png) | ![detail](screenshots/detail.png) | ![error1](screenshots/error1.png) | ![error2](screenshots/error2.png) |
- 
-## 👤 Penulis
- 
-- Nama: *isi nama*
-- NIM: *isi NIM*
-- Mata kuliah: Pemrograman Mobile — Universitas Lambung Mangkurat
-## 📚 Referensi
- 
-- Materi kuliah: *FutureBuilder, News App & Error Handling API di Flutter* (Rafi'e, M.Kom)
-- [GNews API Documentation](https://docs.gnews.io)
-- [dio](https://pub.dev/packages/dio)
- 
